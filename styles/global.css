@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .site-container{
+        @apply max-w-3xl mx-auto px-4
+    }
+    .site-4xl-container{
+        @apply max-w-4xl mx-auto
+    }
+}
+body{
+    @apply bg-gradient-to-br to-black from-zinc-900;
+}
