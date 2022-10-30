@@ -31,10 +31,10 @@ function Homepage(){
                     <img src="vincler/mobil-is-min.jpeg" alt=""/>
                 </div>
                 <div className="px-8">
-                    <img src="vincler/sariagac.jpg" alt=""/>
+                    <img src="vincler/sariagac.JPG" alt=""/>
                 </div>
                 <div className="px-8">
-                    <img src="vincler/sariis.jpg" alt=""/>
+                    <img src="vincler/sariis.JPG" alt=""/>
                 </div>
                 <div className="px-8">
                     <img src="vincler/avize-min.jpeg" alt=""/>
