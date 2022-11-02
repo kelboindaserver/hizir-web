@@ -11,5 +11,5 @@
     }
 }
 body{
-    @apply bg-gradient-to-br to-black from-zinc-900;
+    @apply bg-[url('/bg.jpg')] bg-fixed bg-cover bg-center ;
 }
